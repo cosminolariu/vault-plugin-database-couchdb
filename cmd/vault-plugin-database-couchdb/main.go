@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	couchdb "github.com/cosminolariu/couchdb"
+	couchdb "github.com/cosminolariu/vault-plugin-database-couchdb"
 	dbplugin "github.com/hashicorp/vault/sdk/database/dbplugin/v5"
 )
 
