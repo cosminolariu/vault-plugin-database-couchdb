@@ -1,4 +1,4 @@
-module github.com/hashicorp/vault-plugin-database-elasticsearch
+module github.com/cosminolariu/vault-plugin-database-couchdb
 
 go 1.14
 
